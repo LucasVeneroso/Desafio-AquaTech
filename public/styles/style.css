@@ -63,6 +63,24 @@ hr {
     color: rgb(240, 92, 92);
     padding: 5%;
 }
+.simulador {
+    display: flex;
+    background-color: #2bb7c4;
+}
+.simulador .container{
+    display: flex;
+    flex-direction: column;
+}
+.simulador .container h2{
+    color: rgb(240, 92, 92);
+    padding: 3%;
+    text-align: center;
+}
+.simulador .container p{
+    padding: 2%;
+    text-align: left;
+}
+
 .titulo {
     display: flex;
     color: aqua;
