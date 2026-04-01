@@ -59,6 +59,9 @@
     color: rgb(240, 92, 92);
     padding: 5%;
 }
+.box img{
+    width: 55%;
+}
 .simulador {
     display: flex;
     background-color: #2bb7c4;
